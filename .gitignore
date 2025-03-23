@@ -30,3 +30,15 @@
 *.exe
 *.out
 *.app
+
+# Solution files
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.cmake
+
+.vs/
+
+CMakeFiles/
+tests/CMakeFiles/
+quickplot/CMakeFiles/
