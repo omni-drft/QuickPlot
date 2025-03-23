@@ -28,5 +28,5 @@ option(GLFW_INSTALL "Generate installation target" OFF)
 add_subdirectory(vendor/glfw)
 
 # Add our library and test projects:
-add_subdirectory(QuickPlot)
-add_subdirectory(Tests)
+add_subdirectory(quickplot)
+add_subdirectory(tests)
